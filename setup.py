@@ -7,11 +7,11 @@ def read(fname):
 setup(
 
     name = "nesterkunwar",
-    version = "1.0.0",
+    version = "1.2.0",
     py_modules = ["nesterkunwar"],
     author = "Kunwar Shamsher Luthera",
     author_email = "kunwarluthera@gmail.com",
-    url = "https://github.com/kunwarluthera/nester-kunwar",
+    url = "https://github.com/kunwarluthera/nesterkunwar",
     description = "This is first module for nested lines",
     long_description=read('README')
 
